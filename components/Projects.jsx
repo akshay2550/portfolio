@@ -187,7 +187,7 @@ const Projects = () => {
             </div>
           </div>
 
-          <div className="w-full bg-white shadow-[0_0_10px_rgba(0,0,0,0.1)] rounded-2xl flex flex-col gap-7 h-[500px] p-3 max-w-xl lg:flex-row lg:h-[320px] lg:max-w-4xl">
+          <div className=" bg-white shadow-[0_0_10px_rgba(0,0,0,0.1)] rounded-2xl flex flex-col gap-7 h-[500px] p-3 max-w-xl lg:flex-row lg:h-[320px] lg:max-w-4xl">
             <div className="w-full rounded-2xl shadow-[0_0_10px_rgba(0,0,0,0.1)] overflow-hidden h-auto xl:h-64 xl:self-center 2xl:h-auto ">
               <Link
                 href="https://showcasecars-nine.vercel.app/"
