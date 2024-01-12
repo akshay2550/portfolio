@@ -19,7 +19,7 @@ const Hero = () => {
                   src="https://www.stefantopalovic.com/static/media/waving.1bae5fcfb51082b5c2b4.png"
                   alt="wave"
                   fill
-                  className="tablet:!left-[330px] tablet:!top-16 bigPhone:!left-[450px] bigPhone:!top-16 !left-[320px] !top-11"
+                  className="tablet:!left-[330px] tablet:!top-16 bigPhone:!left-[450px] bigPhone:!top-16 !left-[280px] !top-11 phone:!left-[300px]"
                 />
               </div>
               <p className="text-gray-500 text-lg font-normal leading-relaxed tablet:mb-0 mb-14">
