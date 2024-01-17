@@ -19,12 +19,12 @@ const Projects = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <div className="h-52 sm:h-72 lg:w-[420px] 2xl:w-[425px] 2xl:h-72 lg:h-60 w-full relative">
+                <div className="h-52 sm:h-72 lg:w-[420px] 2xl:w-[500px] 2xl:h-72 lg:h-60 w-full relative">
                   <Image
                     src="/ai-summarize.png"
                     fill
                     alt="summarize"
-                    className="object-cover object-top lg:object-center"
+                    className="object-cover object-top lg:object-center 2xl:object-right"
                   />
                 </div>
               </Link>
@@ -106,7 +106,7 @@ const Projects = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <div className="h-48 sm:h-72 lg:h-64 2xl:h-72 w-full relative">
+                <div className="h-48 sm:h-72 lg:h-64 2xl:h-72 2xl:w-[500px] w-full relative">
                   <Image
                     src="/dropbox-clone.png"
                     alt="dropbox"
@@ -194,12 +194,12 @@ const Projects = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <div className="h-48 sm:h-72 xl:h-64 2xl:h-72 w-full relative">
+                <div className="h-48 sm:h-72 xl:h-64 2xl:h-72 2xl:w-[500px] w-full relative">
                   <Image
                     src="/cars.png"
                     alt="cars"
                     fill
-                    className="object-cover object-center"
+                    className="object-cover object-center 2xl:object-right"
                   />
                 </div>
               </Link>
